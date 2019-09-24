@@ -1,4 +1,8 @@
-language: ruby
-rvm:
- - 2.2
- - jruby
+language: c
+before_install:
+	- sudo apt-get update
+	- sudo apt-get install -y check 
+compiler: gcc
+script:
+	- make
+	- make test
