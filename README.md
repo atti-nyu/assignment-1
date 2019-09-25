@@ -1,2 +1,1 @@
-# assignment-1
-Application Security - Assignment 1 - Secure coding and application development techniques. 
+[![Build Status](https://travis-ci.com/atti-nyu/assignment-1.svg?token=WWt8RuHdFvzuDLgYw3RB&branch=master)](https://travis-ci.com/atti-nyu/assignment-1)
