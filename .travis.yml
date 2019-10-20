@@ -1,7 +1,7 @@
-os: linux
+#os: linux
 language: c
 before_install:
-  - make get-deps
+   - make get-deps
 #  - sudo apt-get update
 #  - sudo apt-get install -y check
 compiler: gcc
